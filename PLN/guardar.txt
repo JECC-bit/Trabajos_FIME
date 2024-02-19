@@ -1,0 +1,3 @@
+Texto guardao en el archivo
+Texto escrito desde el programa
+Escribi esto desde python
